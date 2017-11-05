@@ -1,0 +1,17 @@
+.btn {
+  height: 50px;
+  width: 50px;
+  border: 1px black solid;
+}
+
+#equals {
+  height: 50px;
+  width: 50px;
+  border: 1px black solid;
+}
+
+#output {
+  height: 50px;
+  width: 300px;
+  border: 1px black solid;
+}

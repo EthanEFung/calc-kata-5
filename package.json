@@ -1,0 +1,31 @@
+{
+  "name": "calc-kata-5",
+  "version": "1.0.0",
+  "description":
+    "Prompt  OK let's make a calculator app plain-vanilla JS, DOM APIs, no client-side libraries  however, use modules on the client side if you can remember how server-side -- vanilla express is OK log every time you have to google something when done put the code into your private channel -- as github repo (edited) start with addition and layer on the other 3 basic operations if you have time also if you have time make the calculator not look like crap",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "nodemon server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EthanEFung/calc-kata-5.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EthanEFung/calc-kata-5/issues"
+  },
+  "homepage": "https://github.com/EthanEFung/calc-kata-5#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1",
+    "nodemon": "^1.12.1"
+  },
+  "dependencies": {
+    "express": "^4.16.2",
+    "path": "^0.12.7"
+  }
+}
